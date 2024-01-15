@@ -21,8 +21,11 @@ The code is optimized to run on Google Colab Pro.
 Example dataset is from ChEMBL DB: HER2 actives (HER2-actives.smi) and inactives (HER2-inactives.smi).
 There are 1,684 actives and 2,258 incatives
 
-## Deeplearning model
+## Deep learning model
 The notebook "HER2_classification_DL.ipynb" is for develop deep learning model.
+
+## Classical machine learning model
+Will be uploaded soon
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request.
