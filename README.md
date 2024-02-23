@@ -22,7 +22,7 @@ Example dataset is from ChEMBL DB: HER2 actives (HER2-actives.smi) and inactives
 There are 1,684 actives and 2,258 incatives
 
 ## Deep learning model
-The notebook "HER2_classification_DL.ipynb" is for to develop deep learning model.
+The notebook "HER2_classification_DL_1.ipynb" is for to develop deep learning model.
 
 ## Classical machine learning model
 The notebook "HER_classification_ML.ipynb" is for to develop deep learning model.
